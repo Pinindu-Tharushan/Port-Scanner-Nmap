@@ -1,8 +1,3 @@
-
-
-
-
-
 termux-setup-storage
 
 pkg update && pkg upgrade
@@ -19,4 +14,5 @@ pip install termcolor
 pip install pyfiglet
 pkg install nmap -y
 clear
+xdg-open https://wa.me/+94771523607
 python Pscan.py
